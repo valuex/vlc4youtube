@@ -57,6 +57,8 @@ Proto Recv-Q Send-Q Local Address           Foreign Address         State       
 tcp        0      0 127.0.0.1:8080          0.0.0.0:*               LISTEN      7958/vlc
 ```
 
+**4.** allow vlc to go through the firewall
+**5.** you may run vlc with Adminstration
 
 # References
 
